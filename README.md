@@ -2,7 +2,7 @@
 
 Backend em Java (Spring Boot) para gerenciar uma barbearia: cadastro de clientes e barbeiros, serviços oferecidos e agendamentos, com controle automático de conflito de horário.
 
-Projeto feito pra estudo e prática, com ajuda do meu amigo Kevin.
+Projeto feito pra estudo e prática, pensado pra atender a barbearia do meu amigo Kevin.
 
 ## Stack
 
